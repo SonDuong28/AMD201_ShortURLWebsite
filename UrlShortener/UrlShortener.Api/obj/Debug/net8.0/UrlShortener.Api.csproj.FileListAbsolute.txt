@@ -1,0 +1,1204 @@
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.json
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.staticwebassets.endpoints.json
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.exe
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.deps.json
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.runtimeconfig.json
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.pdb
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Humanizer.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Nanoid.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Json.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\amd201\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.AssemblyReference.cache
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfoInputs.cache
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfo.cs
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.CoreCompileInputs.cache
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\scopedcss\bundle\UrlShortener.Api.styles.css
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShort.BEA7F242.Up2Date
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.dll
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\refint\UrlShortener.Api.dll
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.pdb
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.genruntimeconfig.cache
+E:\amd201\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\ref\UrlShortener.Api.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.staticwebassets.endpoints.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.exe
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.deps.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.runtimeconfig.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.pdb
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Core.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Humanizer.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Nanoid.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.ClientModel.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Json.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.AssemblyReference.cache
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfoInputs.cache
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfo.cs
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.CoreCompileInputs.cache
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\scopedcss\bundle\UrlShortener.Api.styles.css
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShort.BEA7F242.Up2Date
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\refint\UrlShortener.Api.dll
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.pdb
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.genruntimeconfig.cache
+E:\amd201\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\ref\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.staticwebassets.endpoints.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.exe
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.deps.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.runtimeconfig.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.pdb
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Nanoid.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\scopedcss\bundle\UrlShortener.Api.styles.css
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShort.BEA7F242.Up2Date
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\refint\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.pdb
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\ref\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\ADMIN\Desktop\AMD201\CW\Test1\project1\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.staticwebassets.endpoints.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.exe
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.deps.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.runtimeconfig.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.pdb
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Nanoid.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\scopedcss\bundle\UrlShortener.Api.styles.css
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShort.BEA7F242.Up2Date
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\refint\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.pdb
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\ref\UrlShortener.Api.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.staticwebassets.endpoints.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.exe
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.deps.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.runtimeconfig.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.pdb
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Nanoid.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.AssemblyReference.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfoInputs.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfo.cs
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.CoreCompileInputs.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\scopedcss\bundle\UrlShortener.Api.styles.css
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShort.BEA7F242.Up2Date
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\refint\UrlShortener.Api.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.pdb
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.genruntimeconfig.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project5\project2\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\ref\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.staticwebassets.endpoints.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.exe
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.deps.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.runtimeconfig.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.pdb
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Nanoid.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\scopedcss\bundle\UrlShortener.Api.styles.css
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShort.BEA7F242.Up2Date
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\refint\UrlShortener.Api.dll
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.pdb
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\AMD201\CW2\project3\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\ref\UrlShortener.Api.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.staticwebassets.endpoints.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.exe
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.deps.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.runtimeconfig.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\UrlShortener.Api.pdb
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Nanoid.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.AssemblyReference.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfoInputs.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfo.cs
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.CoreCompileInputs.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\scopedcss\bundle\UrlShortener.Api.styles.css
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShort.BEA7F242.Up2Date
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\refint\UrlShortener.Api.dll
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.pdb
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.genruntimeconfig.cache
+C:\Users\Mikee\OneDrive\Máy tính\Greenwich_University\AMD201\project9\project4\UrlShortener\UrlShortener.Api\obj\Debug\net8.0\ref\UrlShortener.Api.dll
