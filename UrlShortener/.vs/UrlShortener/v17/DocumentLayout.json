@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\mikee\\onedrive\\m\u00E1y t\u00EDnh\\greenwich_university\\amd201\\project9\\project4\\urlshortener\\urlshortener.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\admin\\desktop\\amd201\\cw4\\project4\\urlshortener\\urlshortener.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:urlshortener.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\mikee\\onedrive\\m\u00E1y t\u00EDnh\\greenwich_university\\amd201\\project9\\project4\\urlshortener\\urlshortener.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:urlshortener.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\mikee\\onedrive\\m\u00E1y t\u00EDnh\\greenwich_university\\amd201\\project9\\project4\\urlshortener\\urlshortener.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\admin\\desktop\\amd201\\cw4\\project4\\urlshortener\\urlshortener.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:urlshortener.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\mikee\\onedrive\\m\u00E1y t\u00EDnh\\greenwich_university\\amd201\\project9\\project4\\urlshortener\\urlshortener.api\\data\\entities\\userauthen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\admin\\desktop\\amd201\\cw4\\project4\\urlshortener\\urlshortener.api\\data\\entities\\userauthen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:urlshortener.api\\data\\entities\\userauthen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\mikee\\onedrive\\m\u00E1y t\u00EDnh\\greenwich_university\\amd201\\project9\\project4\\urlshortener\\urlshortener.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:urlshortener.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\mikee\\onedrive\\m\u00E1y t\u00EDnh\\greenwich_university\\amd201\\project9\\project4\\urlshortener\\urlshortener.api\\data\\entities\\urlmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\admin\\desktop\\amd201\\cw4\\project4\\urlshortener\\urlshortener.api\\data\\entities\\urlmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:urlshortener.api\\data\\entities\\urlmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\mikee\\onedrive\\m\u00E1y t\u00EDnh\\greenwich_university\\amd201\\project9\\project4\\urlshortener\\urlshortener.api\\migrations\\20251105171905_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\admin\\desktop\\amd201\\cw4\\project4\\urlshortener\\urlshortener.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:urlshortener.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\admin\\desktop\\amd201\\cw4\\project4\\urlshortener\\urlshortener.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:urlshortener.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\admin\\desktop\\amd201\\cw4\\project4\\urlshortener\\urlshortener.api\\migrations\\20251105171905_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:urlshortener.api\\migrations\\20251105171905_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\mikee\\onedrive\\m\u00E1y t\u00EDnh\\greenwich_university\\amd201\\project9\\project4\\urlshortener\\urlshortener.api\\migrations\\20251106163306_makeuseridnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|c:\\users\\admin\\desktop\\amd201\\cw4\\project4\\urlshortener\\urlshortener.api\\migrations\\20251106163306_makeuseridnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E0DC30-B831-4375-AB6A-C05332B0A1A3}|UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:urlshortener.api\\migrations\\20251106163306_makeuseridnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,37 +50,36 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "UrlShortener.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\appsettings.Development.json",
               "RelativeToolTip": "UrlShortener.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-03T05:30:57.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T05:30:57.224Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Program.cs",
               "RelativeDocumentMoniker": "UrlShortener.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Program.cs",
               "RelativeToolTip": "UrlShortener.Api\\Program.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAIkBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAQwIUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T05:13:23.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\appsettings.json",
               "RelativeDocumentMoniker": "UrlShortener.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\appsettings.json",
               "RelativeToolTip": "UrlShortener.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -89,11 +88,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UserAuthen.cs",
-              "DocumentMoniker": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Data\\Entities\\UserAuthen.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Data\\Entities\\UserAuthen.cs",
               "RelativeDocumentMoniker": "UrlShortener.Api\\Data\\Entities\\UserAuthen.cs",
-              "ToolTip": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Data\\Entities\\UserAuthen.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Data\\Entities\\UserAuthen.cs",
               "RelativeToolTip": "UrlShortener.Api\\Data\\Entities\\UserAuthen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,9 +103,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "20251106163306_MakeUserIdNullable.cs",
-              "DocumentMoniker": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Migrations\\20251106163306_MakeUserIdNullable.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Migrations\\20251106163306_MakeUserIdNullable.cs",
               "RelativeDocumentMoniker": "UrlShortener.Api\\Migrations\\20251106163306_MakeUserIdNullable.cs",
-              "ToolTip": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Migrations\\20251106163306_MakeUserIdNullable.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Migrations\\20251106163306_MakeUserIdNullable.cs",
               "RelativeToolTip": "UrlShortener.Api\\Migrations\\20251106163306_MakeUserIdNullable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,23 +113,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "UrlMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Data\\Entities\\UrlMapping.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Data\\Entities\\UrlMapping.cs",
               "RelativeDocumentMoniker": "UrlShortener.Api\\Data\\Entities\\UrlMapping.cs",
-              "ToolTip": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Data\\Entities\\UrlMapping.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Data\\Entities\\UrlMapping.cs",
               "RelativeToolTip": "UrlShortener.Api\\Data\\Entities\\UrlMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T05:19:06.531Z"
+              "WhenOpened": "2025-11-03T05:19:06.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "UrlShortener.Api\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "UrlShortener.Api\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,11 +138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\Dockerfile",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -152,9 +152,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "20251105171905_CreateUserTable.cs",
-              "DocumentMoniker": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Migrations\\20251105171905_CreateUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Migrations\\20251105171905_CreateUserTable.cs",
               "RelativeDocumentMoniker": "UrlShortener.Api\\Migrations\\20251105171905_CreateUserTable.cs",
-              "ToolTip": "C:\\Users\\Mikee\\OneDrive\\M\u00E1y t\u00EDnh\\Greenwich_University\\AMD201\\project9\\project4\\UrlShortener\\UrlShortener.Api\\Migrations\\20251105171905_CreateUserTable.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AMD201\\CW4\\project4\\UrlShortener\\UrlShortener.Api\\Migrations\\20251105171905_CreateUserTable.cs",
               "RelativeToolTip": "UrlShortener.Api\\Migrations\\20251105171905_CreateUserTable.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

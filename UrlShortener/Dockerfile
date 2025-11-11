@@ -2,7 +2,7 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy file solution và project
+# Copy file solution and project
 COPY *.sln .
 COPY UrlShortener.Api/*.csproj UrlShortener.Api/
 
