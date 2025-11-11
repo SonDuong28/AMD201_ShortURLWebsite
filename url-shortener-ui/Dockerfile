@@ -1,4 +1,4 @@
-# --- Giai đoạn 1: Build (Build code Vue) ---
+# --- Build code Vue ---
 FROM node:20-alpine AS build
 WORKDIR /app
 
@@ -11,7 +11,7 @@ COPY . .
 
 RUN npm run build
 
-# --- Giai đoạn 2: Serve (Chạy Web Server) ---
+# --- Run Web Server ---
 FROM nginx:1.25-alpine AS final
 
 COPY --from=build /app/dist /usr/share/nginx/html

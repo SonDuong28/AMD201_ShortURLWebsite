@@ -1,5 +1,4 @@
 <script setup>
-// Multi-word component name for ESLint
 defineOptions({ name: 'UserSettings' })
 import { ref, onMounted } from 'vue'
 import axios from 'axios'

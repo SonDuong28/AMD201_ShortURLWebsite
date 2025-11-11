@@ -1,5 +1,4 @@
 <script setup>
-// Multi-word component name for ESLint
 defineOptions({ name: 'HistoryView' })
 import { ref, onMounted } from 'vue'
 import axios from 'axios'
@@ -41,7 +40,6 @@ const loadHistory = async () => {
   }
 }
 
-// helper: checkbox
 const isSelected = (id) => selectedIds.value.includes(id)
 
 const toggleSelect = (id) => {

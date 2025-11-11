@@ -1,6 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-// CHÚ Ý: đường dẫn và chữ hoa/thường phải đúng y như tên file
 import Shorten from '../components/Shorten/Shorten.vue'
 import Login from '../components/User/Login.vue'
 import Register from '../components/User/Register.vue'

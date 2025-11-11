@@ -4,8 +4,6 @@ import axios from 'axios'
 import { useRouter } from 'vue-router'
 import Navbar from '../function/Navbar.vue'
 
-// Use a relative path so Vite dev server can proxy `/api` -> backend and avoid CORS.
-// If you prefer calling the backend directly (no proxy), set this to the full URL.
 const API_URL = 'http://localhost:5000'
 
 export default {

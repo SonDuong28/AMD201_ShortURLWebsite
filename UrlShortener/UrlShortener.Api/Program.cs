@@ -9,7 +9,7 @@ using System.Linq;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// === DỊCH VỤ ===
+// === Services ===
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -18,7 +18,7 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 
-// CORS (cho phép frontend truy cập)
+// CORS
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(p => p
@@ -35,7 +35,7 @@ app.UseSwagger();
 app.UseSwaggerUI();
 app.UseCors();
 
-// Tự động migrate database nếu cần
+// auto migrate database
 try
 {
     using var scope = app.Services.CreateScope();
@@ -47,7 +47,7 @@ catch (Exception ex)
     Console.WriteLine($"Migration error: {ex.Message}");
 }
 
-// === HELPER: Mã hóa mật khẩu (SHA256) ===
+// === HashPassword (SHA256) ===
 string HashPassword(string password)
 {
     using var sha256 = SHA256.Create();
@@ -55,15 +55,14 @@ string HashPassword(string password)
     return Convert.ToBase64String(bytes);
 }
 
-// === HELPER: Tạo API Key ===
+// === Create API Key ===
 string GenerateApiKey()
 {
     return Nanoid.Generate(size: 32);
 }
 
 // ==================================================================
-// === MIDDLEWARE: Kiểm tra API Key nếu có ===
-// Mục đích: gắn user vào HttpContext.Items["User"], giúp các API khác có thể dùng
+// === Check API Key ===
 app.Use(async (context, next) =>
 {
     if (context.Request.Headers.TryGetValue("X-API-Key", out var apiKeyHeader))
@@ -85,7 +84,7 @@ app.Use(async (context, next) =>
 });
 
 // ==================================================================
-// === API: REGISTER (Tạo user + API Key) ===
+// === REGISTER (create user + API Key) ===
 app.MapPost("/api/auth/register", async (RegisterRequest request, ApplicationDbContext db) =>
 {
     if (await db.Users.AnyAsync(u => u.Username == request.Username))
@@ -117,7 +116,7 @@ app.MapPost("/api/auth/register", async (RegisterRequest request, ApplicationDbC
 })
 .WithTags("Auth");
 
-// === API: LOGIN ===
+// === LOGIN ===
 app.MapPost("/api/auth/login", async (LoginRequest request, ApplicationDbContext db) =>
 {
     var user = await db.Users.FirstOrDefaultAsync(u => u.Username == request.Username);
@@ -135,11 +134,11 @@ app.MapPost("/api/auth/login", async (LoginRequest request, ApplicationDbContext
 })
 .WithTags("Auth");
 
-// === API: UPDATE CURRENT USER PROFILE ===
-// === API: UPDATE ACCOUNT (YÊU CẦU API KEY) ===
+// === UPDATE CURRENT USER PROFILE ===
+// === UPDATE ACCOUNT (API KEY Required) ===
 app.MapPut("/api/account", async (UpdateAccountRequest req, ApplicationDbContext db, HttpContext http) =>
 {
-    // Lấy API Key
+    // Get API Key
     if (!http.Request.Headers.TryGetValue("X-API-Key", out var apiKeyHeader) ||
         string.IsNullOrWhiteSpace(apiKeyHeader))
     {
@@ -148,20 +147,20 @@ app.MapPut("/api/account", async (UpdateAccountRequest req, ApplicationDbContext
 
     var apiKey = apiKeyHeader.ToString();
 
-    // Tìm user tương ứng
+    // check user
     var user = await db.Users.FirstOrDefaultAsync(u => u.ApiKey == apiKey);
     if (user == null)
     {
         return Results.Unauthorized();
     }
 
-    // Validate cơ bản
+    // Validate
     if (string.IsNullOrWhiteSpace(req.Username) || string.IsNullOrWhiteSpace(req.Email))
     {
         return Results.BadRequest("Username and email are required.");
     }
 
-    // Check trùng username (trừ chính mình)
+    // check username 
     var existUserName = await db.Users
         .AnyAsync(u => u.Username == req.Username && u.Id != user.Id);
     if (existUserName)
@@ -169,7 +168,7 @@ app.MapPut("/api/account", async (UpdateAccountRequest req, ApplicationDbContext
         return Results.Conflict("Username is already taken.");
     }
 
-    // Check trùng email (trừ chính mình)
+    // check email
     var existEmail = await db.Users
         .AnyAsync(u => u.Email == req.Email && u.Id != user.Id);
     if (existEmail)
@@ -177,11 +176,11 @@ app.MapPut("/api/account", async (UpdateAccountRequest req, ApplicationDbContext
         return Results.Conflict("Email is already in use.");
     }
 
-    // Cập nhật thông tin
+    // update info
     user.Username = req.Username;
     user.Email = req.Email;
 
-    // Nếu có nhập mật khẩu mới -> cập nhật
+    // if have new password -> update password
     if (!string.IsNullOrWhiteSpace(req.NewPassword))
     {
         if (req.NewPassword.Length < 6)
@@ -189,7 +188,7 @@ app.MapPut("/api/account", async (UpdateAccountRequest req, ApplicationDbContext
             return Results.BadRequest("New password must be at least 6 characters.");
         }
 
-        // Dùng đúng hàm HashPassword đang có phía trên
+        // using local function to hash password
         string HashPassword(string password)
         {
             using var sha256 = SHA256.Create();
@@ -214,8 +213,7 @@ app.MapPut("/api/account", async (UpdateAccountRequest req, ApplicationDbContext
 
 
 // ==================================================================
-// === API: TẠO URL RÚT GỌN ===
-// Nếu user có API Key -> lưu UserId, nếu không -> UserId = Guid.Empty
+// === Create Short URL ===
 app.MapPost("/api/url", async (ShortenUrlRequest request, ApplicationDbContext db, HttpContext http) =>
 {
     if (!Uri.TryCreate(request.Url, UriKind.Absolute, out _))
@@ -223,7 +221,7 @@ app.MapPost("/api/url", async (ShortenUrlRequest request, ApplicationDbContext d
 
     var shortCode = Nanoid.Generate(size: 7);
 
-    // Lấy user từ middleware nếu có
+    // Get user from middleware if available
     var user = http.Items["User"] as UserAuthen;
 
     var mapping = new UrlMapping
@@ -243,29 +241,27 @@ app.MapPost("/api/url", async (ShortenUrlRequest request, ApplicationDbContext d
 })
 .WithTags("URLs");
 
-// === API: LỊCH SỬ CÁC URL CỦA USER ===
+// === History URL of user ===
 app.MapGet("/api/url/history", async (ApplicationDbContext db, HttpContext http) =>
 {
-    // 1. Thử lấy user từ middleware (nếu đã gắn sẵn)
     var user = http.Items["User"] as UserAuthen;
 
-    // 2. Nếu chưa có (trường hợp middleware không chạy / không có header)
     if (user == null)
     {
         var apiKey = http.Request.Headers["X-API-Key"].FirstOrDefault();
         if (string.IsNullOrWhiteSpace(apiKey))
         {
-            return Results.Unauthorized(); // không có API Key
+            return Results.Unauthorized(); // Missing API Key
         }
 
         user = await db.Users.FirstOrDefaultAsync(u => u.ApiKey == apiKey);
         if (user == null)
         {
-            return Results.Unauthorized(); // API Key sai
+            return Results.Unauthorized(); // Invalid API Key
         }
     }
 
-    // 3. Lấy các URL thuộc user này
+    // 3. Get URLs belonging to this user
     var urls = await db.UrlMappings
         .Where(x => x.UserId == user.Id)
         .OrderByDescending(x => x.CreatedAt)
@@ -283,7 +279,7 @@ app.MapGet("/api/url/history", async (ApplicationDbContext db, HttpContext http)
 })
 .WithTags("URLs");
 
-// === API: DELETE 1 SHORT URL (require API KEY, only own link) ===
+// === DELETE 1 SHORT URL (require API KEY, only own link) ===
 app.MapDelete("/api/url/history/{id:guid}", async (Guid id, ApplicationDbContext db, HttpContext http) =>
 {
     if (!http.Request.Headers.TryGetValue("X-API-Key", out var apiKeyHeader) ||
@@ -314,7 +310,7 @@ app.MapDelete("/api/url/history/{id:guid}", async (Guid id, ApplicationDbContext
 })
 .WithTags("URLs");
 
-// === API: CLEAR ALL SHORT URL HISTORY OF CURRENT USER ===
+// ===CLEAR ALL SHORT URL HISTORY OF CURRENT USER ===
 app.MapDelete("/api/url/history", async (ApplicationDbContext db, HttpContext http) =>
 {
     if (!http.Request.Headers.TryGetValue("X-API-Key", out var apiKeyHeader) ||
@@ -348,7 +344,7 @@ app.MapDelete("/api/url/history", async (ApplicationDbContext db, HttpContext ht
 
 
 
-// === API: REDIRECT ===
+// === REDIRECT ===
 app.MapGet("/{shortCode}", async (string shortCode, ApplicationDbContext db) =>
 {
     var mapping = await db.UrlMappings.FirstOrDefaultAsync(m => m.ShortCode == shortCode);

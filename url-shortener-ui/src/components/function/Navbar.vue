@@ -31,11 +31,9 @@
 
 
 <script setup>
-// Multi-word component name for ESLint
 defineOptions({ name: 'AppNavbar' })
 import { ref } from 'vue'
 
-// Use defineProps without assigning to a `props` variable to avoid an unused variable
 defineProps({
   isLoggedIn: { type: Boolean, default: false },
   user: { type: Object, default: () => ({}) }

@@ -1,5 +1,4 @@
 <script setup>
-// Give this component a multi-word name to satisfy ESLint rule `vue/multi-word-component-names`
 defineOptions({ name: 'ShortenView' })
 import { ref, onMounted } from 'vue'
 import QRCode from 'qrcode'

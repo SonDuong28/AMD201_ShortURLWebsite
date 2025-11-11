@@ -1,36 +1,35 @@
-# Xóa dòng 'version: 3.8' (nếu có)
-
+# version: '3.8'
 services:
-  # 1. Dịch vụ CSDL (MỚI)
+  # 1. new CSDL SQL Server
   mssql-db:
     image: mcr.microsoft.com/mssql/server:2022-latest
     container_name: sql-server-db
     environment:
       ACCEPT_EULA: 'Y'
-      SA_PASSWORD: 'Kh@ng22012004' # Mật khẩu sa của bạn
+      SA_PASSWORD: 'Kh@ng22012004' 
     ports:
-      - "1434:1433" # Mở port 1433 để bạn có thể check bằng SSMS
+      - "1434:1433" # Open port 1433 
     volumes:
       - mssql-data:/var/opt/mssql
 
-  # 2. Dịch vụ Backend API (ĐÃ SỬA)
+  # 2. Backend API service
   backend-api:
     build:
-      context: ./UrlShortener # Đường dẫn đến folder Backend
+      context: ./UrlShortener 
     container_name: shortener-api-service
     ports:
       - "5000:8080"
     restart: unless-stopped
     depends_on:
-      - mssql-db # Bắt buộc: Phải khởi động API SAU KHI CSDL đã chạy
+      - mssql-db 
     environment:
-      # Ghi đè ConnectionString để nó kết nối với container CSDL
+
       ConnectionStrings__DefaultConnection: "Server=mssql-db;Database=UrlShortenerDb_Docker;User Id=sa;Password=Kh@ng22012004;TrustServerCertificate=True;"
 
-  # 3. Dịch vụ Frontend UI (Như cũ)
+  # 3. Frontend UI service
   frontend-ui:
     build:
-      context: ./url-shortener-ui # Đường dẫn đến folder Frontend
+      context: ./url-shortener-ui
     container_name: shortener-ui-service
     ports:
       - "80:80"
@@ -38,6 +37,6 @@ services:
     depends_on:
       - backend-api
 
-# Khai báo ổ đĩa ảo để lưu CSDL (MỚI)
+# save new CSDL
 volumes:
   mssql-data:

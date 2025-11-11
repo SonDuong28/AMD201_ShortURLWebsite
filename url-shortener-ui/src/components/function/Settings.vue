@@ -1,5 +1,4 @@
 <script setup>
-// Multi-word component name for ESLint
 defineOptions({ name: 'FunctionSettings' })
 import { ref, onMounted } from 'vue'
 import axios from 'axios'
@@ -108,7 +107,6 @@ const navigateTo = (path) => {
 
           <div class="input-group vertical">
             <label>Email</label>
-            <!-- Email is displayed but cannot be edited by the user -->
             <input type="email" v-model="email" required disabled title="Email cannot be changed" />
           </div>
 

@@ -19,8 +19,6 @@ export default defineConfig({
     port: 5173,
     strictPort: true,
     historyApiFallback: true,
-    // Dev-time proxy to avoid CORS in development. Requests starting with /api
-    // will be forwarded to your backend server. Change target if your backend
     // runs on a different port (e.g. 5000).
     proxy: {
       '/api': {
